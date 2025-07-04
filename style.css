@@ -1,0 +1,48 @@
+h1{color :rgb(133, 233, 200);
+    background-color:rgb(3, 40, 116);
+    border: 1px solid black;
+    margin: auto;
+    padding: 0;
+}
+/* ul>li{ */
+    /* text-align: center; */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* height: 5vh; */
+/* } */
+/* .li-{
+    text-align: center ;
+} */
+ul>li{
+    text-align: left;
+    display: contents;
+    font-style: normal;
+    /* text-align: center; */
+    border :1px solid rgb(0, 9, 50) 
+
+ }
+.but-1{
+    color: white;
+    background-color: brown;
+    display: block;
+}
+span{
+    font-family:monospace;
+    font-style: italic;
+}
+*{
+    font-style: italic;
+    background-color: rgb(120, 200, 130);
+}
+.para-1{
+    height: 5%;
+    weight: 5px;
+
+}
+.ul-2 li{
+    /* display:contents ; */
+    weight: 10px;
+    height: auto;
+    font-style: normal ;
+}
